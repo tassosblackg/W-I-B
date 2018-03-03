@@ -5,6 +5,7 @@ mkdir build
 
 cd to build/ folder
 cmake ../
+
 make
 
 ./createfiles
