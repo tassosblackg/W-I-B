@@ -6,16 +6,17 @@ To install see: https://docs.opencv.org/2.4/doc/tutorials/introduction/linux_ins
 and this:https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/ 
 	*|possible error if you use the above link to solve check this: https://github.com/opencv/opencv/issues/6050
 
-#WIB project
+#WIB project	
 #author:soylisK |email:soylis.k@gmail.com
 
 
 #Steps to run classification and detection of ball#
 
- 1.| You need a folder with imgs for negative training  (negativeImg)
+ 1.| You need a folder with imgs for negative training  (negativeImg) 	
  2.| You need as many positive imgs by croping the obj (showing the obj you want to recognize) that's /BallImages
 
-#starting to buld necessary components
+#starting to build necessary components
+
  3.| cd to /files and read --README.md
  4.| follow steps of above .md file to create bg.txt and ball.info file
 
@@ -30,7 +31,8 @@ and this:https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-op
 ## DELETE ONLY : if you want to recreate the classifier#############################
 ------------------------------------------------------------------------------------------
 
-#creating samples utility---Creating training set
+#creating samples utility---Creating training set	
+
  6.| run: opencv_createsamples  -info ball.ifo  -num 40 -w 16 -h 16 -vec ball.vec
 	#-num is the number of positive samples you have in the ball.info file
 	#-w & -h the wanted size of useful object
