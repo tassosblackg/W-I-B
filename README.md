@@ -12,4 +12,7 @@ see:https://docs.opencv.org/2.4/doc/tutorials/objdetect/cascade_classifier/casca
 ***Project Web Page :***
 > http://www.intelligence.tuc.gr/~robots/ARCHIVE/2017w/projects/LAB51334633/
 
+***Youtube Video***
+> https://www.youtube.com/watch?v=EwSUDWBLhuA
+
 :grinning:  PEACE OUT!
