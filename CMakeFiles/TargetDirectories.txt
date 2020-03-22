@@ -1,0 +1,3 @@
+/home/soylis/Desktop/BallRecognition/CMakeFiles/edit_cache.dir
+/home/soylis/Desktop/BallRecognition/CMakeFiles/rebuild_cache.dir
+/home/soylis/Desktop/BallRecognition/CMakeFiles/BallRecognition.dir

@@ -1,6 +1,0 @@
-cmake_minimum_required(VERSION 2.8)
-project( BallRecognition )
-set( CMAKE_EXECUTABLE_OUTPUT_PATH "build/${BallRecognition}" )
-find_package( OpenCV REQUIRED )
-add_executable( WIB wib.cpp )
-target_link_libraries( WIB ${OpenCV_LIBS} )

@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( BallRecognition )
+find_package( OpenCV REQUIRED )
+add_executable( BallRecognition ballrec.cpp )
+target_link_libraries( BallRecognition ${OpenCV_LIBS} )

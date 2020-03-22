@@ -1,18 +1,8 @@
-# :soccer: W-I-B :soccer: 
-Where Is (the) Ball /Ball Recognition with OpenCV
+# BallRecognition
+Recognize black&white ball -Robcup
+Simple recognition problem solution(v1)
 
-   a black and white ball :soccer: detection using OpenCv cascade classifiers
+Install opencv library
+Use cmake & make ./BallRecognition to execute
 
-### OpenCv is required! 
-  I used OpenCv 3.1.0
-
-We use cascade classifiers of OpenCV to detect ball using two types of datashet one positive and one negative
-see:https://docs.opencv.org/2.4/doc/tutorials/objdetect/cascade_classifier/cascade_classifier.html
-
-***Project Web Page :***
-> http://www.intelligence.tuc.gr/~robots/ARCHIVE/2017w/projects/LAB51334633/
-
-***Youtube Video***
-> https://www.youtube.com/watch?v=EwSUDWBLhuA
-
-:grinning:  PEACE OUT!
+check W.I.B is the final version of ball recognition
